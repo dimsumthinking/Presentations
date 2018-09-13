@@ -1,0 +1,1 @@
+This contains a pdf of the slides and a Swift playground of the code from my NSSpain 2018 talk on combinators
